@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982e3a0b5ad52ff45bd51ef422f48405, type: 3}
+  m_Name: Jump
+  m_EditorClassIdentifier: 
+  animationName: Jump
+  frames:
+  - {fileID: -5761754228987130096, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
+  - {fileID: 5907920678353447086, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
+  - {fileID: -6086044393419928071, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
+  framePerSecond: 3
+  animationType: 0
+  flipX: 0
+  flipY: 0
+  flipToDirection: 1
